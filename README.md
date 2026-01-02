@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi 👋, I'm Qistina!</h1>
-  <h3>Aspiring Red Teamer | Systems Infrastructure Specialist | RHB Foundation Scholar 🛡️</h3>
+  <h3>Systems Security & Infrastructure Resilience</h3>
 </div>
 
 <div align="center">
