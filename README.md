@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-Hii, this is Qistina!
+Hiii, this is Qistina!
 
 - 🎓 I’m a Year 3 **Computing Infrastructure** student at **Universiti Sains Malaysia (USM)**
 
