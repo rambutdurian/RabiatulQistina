@@ -20,13 +20,13 @@ Hii, this is Qistina!
 
 - 🎓 I’m a Year 3 **Computing Infrastructure** student at **Universiti Sains Malaysia (USM)**
 
-- 🛡️ **RHB Foundation Scholar** passionate about **Offensive Security and Red Teaming**
+- 🏢 **RHB Foundation Scholar** (Academic & Leadership Excellence)
 
-- 🏆 **NERaCA 3.0 CTF** Top 13 Finalist (National Level)
-
+- 🏆 **Major:** Computer Science (Specializing in Computing Infrastructure)
+  
+- 🎯 **Focus:** Offensive Security, Adversarial Thinking and Infrastructure Defense
+  
 - 📜 Currently pursuing **EC-Council CEH Certification** (Expected March 2026)
-
-- 🛠️ Developed **ZeroTrace**, a custom Python-based reconnaissance framework
 
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/qistinazaini7376)
 
