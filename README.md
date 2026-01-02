@@ -53,24 +53,5 @@ Hii, this is Qistina!
 ### 🎨 Design & Creative Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"> <img src="https://img.shields.io/badge/After_Effects-CF96FD?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects">
 
-## 🔥 My Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rambutdurian&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rambutdurian&theme=tokyonight&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rambutdurian&theme=tokyonight)
-
-</div>
-
-## 🛣️ Learning Roadmap
-- [ ] Certified Ethical Hacker (CEH) - *In Progress*
-- [ ] AWS Certified Cloud Practitioner
-- [ ] OSCP (Offensive Security Certified Professional)
-
 ---
-<p align="center">
-<i>"Adversarial Thinking: Building a better defense by understanding the offense."</i>
-</p>
+
